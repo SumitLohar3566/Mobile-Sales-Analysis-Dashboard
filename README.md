@@ -70,4 +70,4 @@ Enhanced mobile responsiveness for better accessibility.
 📞 Contact Developer: Sumit Lohar 
 📧 Email:sumitlohar063@gmail.com 
 🐙 GitHub: https://github.com/YOUR-USERNAME 
-🔗 LinkedIn:https://www.linkedin.com/feed/
+🔗 LinkedIn:https://www.linkedin.com/in/sumit-lohar-498341317/
