@@ -66,3 +66,8 @@ Integration with live sales data APIs for real-time updates.
 Predictive analytics to forecast future sales trends.
 
 Enhanced mobile responsiveness for better accessibility.
+
+📞 Contact Developer: Sumit Lohar 
+📧 Email:sumitlohar063@gmail.com 
+🐙 GitHub: https://github.com/YOUR-USERNAME 
+🔗 LinkedIn:https://www.linkedin.com/feed/
