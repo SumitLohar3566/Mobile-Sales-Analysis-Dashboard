@@ -1,45 +1,45 @@
-Mobile Sales Analysis Dashboard
-Project Overview
+## Mobile Sales Analysis Dashboard
+# Project Overview
 
 The Mobile Sales Analysis Dashboard is an interactive, visual analytics tool designed to provide insights into mobile sales across various cities, brands, and models. This dashboard allows stakeholders to track sales performance, transactions, customer ratings, and trends over time, helping businesses make data-driven decisions.
 
-Features
+# Features
 
-Key Metrics:
+-Key Metrics:
 
-Total Sales
+-Total Sales
 
-Total Quantity Sold
+-Total Quantity Sold
 
-Number of Transactions
+-Number of Transactions
 
-Average Sales Value
+-Average Sales Value
 
-Filters:
+-Filters:
 
-Mobile Model
+-Mobile Model
 
-Payment Method (UPI, Debit Card, Cash)
+-Payment Method (UPI, Debit Card, Cash)
 
-Brand
+-Brand
 
-Day Name / Month
+-Day Name / Month
 
-Visualizations:
+-Visualizations:
 
-Total Sales by City (Interactive Map)
+-Total Sales by City (Interactive Map)
 
-Total Quantity by Month and Day (Line Chart)
+-Total Quantity by Month and Day (Line Chart)
 
-Total Sales by Mobile Model (Bar Chart)
+-Total Sales by Mobile Model (Bar Chart)
 
-Transaction Distribution by Payment Method (Pie Chart)
+-Transaction Distribution by Payment Method (Pie Chart)
 
-Customer Ratings Distribution (Bar Chart)
+-Customer Ratings Distribution (Bar Chart)
 
-Total Sales by Day Name (Area Chart)
+-Total Sales by Day Name (Area Chart)
 
-Dashboard Insights
+#Dashboard Insights:
 
 -City-wise Analysis: Highlights top-performing cities in mobile sales.
 
@@ -52,7 +52,7 @@ Dashboard Insights
 -Customer Ratings: Evaluate customer satisfaction for different models and brands.
 
 
-How to Use
+#How to Use:
 
 -Clone the repository:
 (https://github.com/SumitLohar3566/Mobile-Sales-Analysis-Dashboard/new/main)
@@ -67,4 +67,7 @@ Predictive analytics to forecast future sales trends.
 
 Enhanced mobile responsiveness for better accessibility.
 
-📞 Contact Developer: Sumit Lohar 📧 Email:sumitlohar063@gmail.com 🐙 GitHub: https://github.com/SumitLohar3566🔗 LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
+- Contact Developer: Sumit Lohar
+- Email:sumitlohar063@gmail.com
+- GitHub: https://github.com/SumitLohar3566
+- LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
