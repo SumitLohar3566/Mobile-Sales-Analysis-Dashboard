@@ -3,9 +3,9 @@
 
 The Mobile Sales Analysis Dashboard is an interactive, visual analytics tool designed to provide insights into mobile sales across various cities, brands, and models. This dashboard allows stakeholders to track sales performance, transactions, customer ratings, and trends over time, helping businesses make data-driven decisions.
 
-# Features
+## Features
 
--Key Metrics:
+# Key Metrics:
 
 -Total Sales
 
@@ -15,7 +15,7 @@ The Mobile Sales Analysis Dashboard is an interactive, visual analytics tool des
 
 -Average Sales Value
 
--Filters:
+# Filters:
 
 -Mobile Model
 
@@ -25,7 +25,7 @@ The Mobile Sales Analysis Dashboard is an interactive, visual analytics tool des
 
 -Day Name / Month
 
--Visualizations:
+# Visualizations:
 
 -Total Sales by City (Interactive Map)
 
@@ -39,7 +39,7 @@ The Mobile Sales Analysis Dashboard is an interactive, visual analytics tool des
 
 -Total Sales by Day Name (Area Chart)
 
-#Dashboard Insights:
+# Dashboard Insights:
 
 -City-wise Analysis: Highlights top-performing cities in mobile sales.
 
@@ -52,14 +52,14 @@ The Mobile Sales Analysis Dashboard is an interactive, visual analytics tool des
 -Customer Ratings: Evaluate customer satisfaction for different models and brands.
 
 
-#How to Use:
+# How to Use:
 
 -Clone the repository:
 (https://github.com/SumitLohar3566/Mobile-Sales-Analysis-Dashboard/new/main)
 Project Screenshot:
 <img width="1324" height="751" alt="Screenshot 2025-11-30 204135" src="https://github.com/user-attachments/assets/11d54515-b562-44b9-891c-893e829cd3ea" />
 
--Future Enhancements:
+# Future Enhancements:
 
 Integration with live sales data APIs for real-time updates.
 
